@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleEasyPermission</string>
+
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+
+
+</resources>
